@@ -1,28 +1,16 @@
-# Hi, I'm Adam Croft 👋
+# Adam T. Croft
 
-Welcome to my GitHub profile.
+Technical Audio Lead at Bungie.
 
-## About Me
-- Audio and software enthusiast
-- Building tools and experiments in DSP, media, and automation
-- Always learning and shipping practical projects
+I help demystify bleeding-edge audio and AI tech for sound designers, musicians, and game developers.
 
-## What I'm Working On
-- Current focus: audio/DSP tooling and creative developer workflows
-- Sharing projects and write-ups as I build
-
-## Tech I Use
-- Languages: Python, JavaScript, Bash
-- Tools: Git, Linux, CLI automation
-
-## Featured Repositories
-- Add links to your best projects here
-- Add links to your best projects here
-- Add links to your best projects here
+## What I Do
+- Bridge advanced audio and AI concepts with real production workflows
+- Build practical tools and processes for creative teams
+- Share approachable guidance for game audio professionals
 
 ## Connect
 - GitHub: [@adamtcroft](https://github.com/adamtcroft)
-- Add your website / LinkedIn / other links
-
----
-_This README appears on my GitHub profile because this repository is named exactly `adamtcroft`._
+- Website: [nir.media](https://nir.media)
+- X: [@adamtcroft](https://x.com/adamtcroft)
+- Email: [me@adamtcroft.com](mailto:me@adamtcroft.com)
