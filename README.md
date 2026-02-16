@@ -1,5 +1,4 @@
 # Adam T. Croft
-
 Technical Audio Lead at Bungie.
 
 I help demystify bleeding-edge audio and AI tech for sound designers, musicians, and game developers.
@@ -12,5 +11,9 @@ I help demystify bleeding-edge audio and AI tech for sound designers, musicians,
 ## Connect
 - GitHub: [@adamtcroft](https://github.com/adamtcroft)
 - Website: [nir.media](https://nir.media)
+- YouTube: [@adamtcroft](https://youtube.com/@adamtcroft)
+- LinkedIn: [adamtcroft](https://linkedin.com/in/adamtcroft)
+- Instagram: [@adamtcroft](https://instagram.com/adamtcroft)
+- Threads: [@adamtcroft](https://threads.com/adamtcroft)
 - X: [@adamtcroft](https://x.com/adamtcroft)
 - Email: [me@adamtcroft.com](mailto:me@adamtcroft.com)
