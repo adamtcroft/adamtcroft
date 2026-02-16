@@ -1,7 +1,7 @@
-# Adam T. Croft
-Technical Audio Lead at Bungie.
-
+# Hey, I'm Adam...
 I help demystify bleeding-edge audio and AI tech for sound designers, musicians, and game developers.
+
+<img src="https://imguscdn.gamespress.com/cdn/files/Bungie/2023/07/271742-fdcec62f/Bungie_Logo_4C_dark_png_jpgcopy.jpg?otf=y&lightbox=y&sky=ac33940f5b7a1a49a483142fa8646c1037e218f05327932973273b9437a400ab&w=1000&maxheight=4000&mode=pad&format=jpg">
 
 ## What I Do
 - Bridge advanced audio and AI concepts with real production workflows
