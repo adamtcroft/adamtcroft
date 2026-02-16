@@ -4,18 +4,24 @@ I help demystify bleeding-edge audio and AI tech for sound designers, musicians,
 I spend work days as Technical Audio Lead at 
 <img height="7%" width="7%" src="https://imguscdn.gamespress.com/cdn/files/Bungie/2021/03/26150228-8a4d0ab7-fa6e-4450-b290-6fb72cc47d90/Bungie_Logo_WHITE_SOLID-2.png?w=640&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=bfc958fb5aa1ccaf0cab600a18429f3d19286d64a2d9a3d86758bbe0ee7bbc9c">
 
-I've contributed to most *Destiny* releases and *Marathon (2026)*
+I've contributed to most **Destiny** releases and **Marathon (2026)**
 
 ## What I Do
 - Bridge disciplines between professional audio and software development
 - Explain complex software, technology, and creative audio concepts so _anyone_ can understand
 - Build practical tools and automation workflows, saving teams _hundreds of hours_ and helping them create things that could otherwise _never exist_
+- Create and play with bleeding-edge technology and integrate it into the development process
+
+## What I'm Working On
+- **Destiny 2** and, to a lesser extent, **Marathon**
+- [NIR-DSP](https://github.com/adamtcroft/nir-dsp), an LLM-first audio plugin/effects experiment
+- Talking about AI and Audio with shorts on [LinkedIn](https://linkedin.com/in/adamtcroft) and [YouTube](https://www.youtube.com/@adamtcroft)
 
 ## What I've Done
-- Intentionally automated myself out of numerous jobs.
-- Worked on development teams for _Halo: Infinite_, _Plants vs Zombies_, _Forza Motorsport_ and others.
+- Intentionally automated myself out of numerous jobs
+- Worked on development teams for **Halo: Infinite**, **Plants vs Zombies**, **Forza Motorsport** and others
 - [Written two books on how to break into Game Audio](https://nir.media)
-- Helped create audiovisual building designs for _Microsoft_, _University of Washington_, and _Amazon_ including the famous *Amazon Spheres*
+- Helped create audiovisual building designs for _Microsoft_, _University of Washington_, and _Amazon_ including the famous **Amazon Spheres**
 - Helped develop 2 seasons of a proto-YouTube webseries for _Penny Arcade_
 - Twice ran live sound for a stunt pilot who _sang from his airplane while doing stunts_
 - Worked on Movies, TV, Commercials, Live and Studio Music, etc.
@@ -25,7 +31,7 @@ I've contributed to most *Destiny* releases and *Marathon (2026)*
 - I train Brazilian Jiu-Jitsu
 - I'm a multi-instrumentalist (Guitar, Bass, Drums, Vocals)
 - I have a lifelong fandom of The Muppets
-- I have a massive music collection and the best band I've ever seen live is _The Dillinger Escape Plan_
+- I have a massive music collection and the best band I've ever seen live is **The Dillinger Escape Plan**
 
 ## Connect
 - GitHub: [@adamtcroft](https://github.com/adamtcroft)
